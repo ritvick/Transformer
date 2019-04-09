@@ -1,6 +1,5 @@
 # Getting Started
 
-### Getting Started
 This project was developed using Spring Boot Rest API, Java 8 using Maven build tool. To install and run the project, please run below commands on terminal: -
 ```sh
 $ ./mvnw install
